@@ -7,7 +7,11 @@ class Tienda():
         self.ganancias = ganancias
 
     
-Hola = random.seed(float, 2)
+Hola = random.randrange(2, 100)
+
+print(Hola)
+
+
 
 print(Hola)
 
