@@ -27,3 +27,5 @@ if ganancia > 0:
 Tienda = Tienda(productos,trabajadores,ganancia)
 
 print(Tienda.info())
+
+##Tienda
